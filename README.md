@@ -9,6 +9,9 @@ password: treugolnik
 ## Telegram канал
 https://t.me/ithackathonchat
 
+## Регистрация проектов
+https://docs.google.com/forms/d/e/1FAIpQLSfSO3qIb5MkVFLl53fV_04jlkpNHFpPLnsRykg5KOzIbrvC1w/viewform
+
 ## Задания
 ### Ростелеком Информационные Технологии
 1. 'Dropbox' для студентов. Сервис для обмена файлами, статьями, аудио и видео информацией между студентами одного направления, факультета и т.д.
