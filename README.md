@@ -7,7 +7,7 @@ SSID: cnit_5GHz, cnit_5GHz
 password: treugolnik
 
 ## Telegram канал
-t.me/ithackathonchat
+https://t.me/ithackathonchat
 
 ## Задания
 ### Ростелеком Информационные Технологии
